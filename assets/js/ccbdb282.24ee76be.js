@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdaniellaera_github_io=self.webpackChunkdaniellaera_github_io||[]).push([[27],{9244:function(a){a.exports=JSON.parse('{"allTagsPath":"/daniellaera.github.io/blog/tags","slug":"/daniellaera.github.io/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/daniellaera.github.io/blog/tags/docusaurus"}')}}]);
