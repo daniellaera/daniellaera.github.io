@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Daniel Laera",
-  tagline: "Personal Website & Blog",
+  tagline: "DOKKU ARE AWESOME",
   url: "https://github.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
