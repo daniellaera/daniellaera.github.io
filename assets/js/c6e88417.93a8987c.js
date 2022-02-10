@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdaniellaera_github_io=self.webpackChunkdaniellaera_github_io||[]).push([[683],{9122:function(a){a.exports=JSON.parse('{"allTagsPath":"/daniellaera.github.io/blog/tags","slug":"/daniellaera.github.io/blog/tags/facebook","name":"facebook","count":1,"permalink":"/daniellaera.github.io/blog/tags/facebook"}')}}]);
