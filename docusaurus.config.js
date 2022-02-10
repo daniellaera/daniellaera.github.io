@@ -9,7 +9,7 @@ const config = {
   title: "Daniel Laera",
   tagline: "Personal Website & Blog",
   url: "https://github.com",
-  baseUrl: "/daniellaera.github.io/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
