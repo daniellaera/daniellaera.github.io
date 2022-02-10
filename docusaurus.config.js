@@ -15,7 +15,7 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "daniellaera", // Usually your GitHub org/user name.
   projectName: "daniellaera.github.io", // Usually your repo name.
-  // deploymentBranch: "gh-pages",
+  deploymentBranch: "gh-pages",
 
   presets: [
     [
