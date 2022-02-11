@@ -10,8 +10,38 @@ sidebar_position: 1
 
 `more code goes here`
 
-# Main title
+# Build & Deploy to GitHub Pages
 
-`test code`
+```
+name: Build and GH-Page Deploy
 
-test comment here
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Install
+        run: yarn install
+
+      - name: Build
+        run: |
+          yarn autoclean
+          yarn build
+
+      - name: Deploy to GH Page
+        uses: JamesIves/github-pages-deploy-action@v4.2.3
+        with:
+          branch: gh-pages
+          folder: build
+
+```
