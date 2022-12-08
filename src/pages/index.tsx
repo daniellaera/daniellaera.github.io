@@ -19,7 +19,7 @@ function HomepageHeader() {
           <div className="avatar__intro">
             <h4 className="hero__title">Hi, I'm Daniel Laera</h4>
             <h6 className="hero__subtitle">
-              Full-Stack Developer @Ifchor
+              Full-Stack Developer & Coffee Lover
             </h6>
           </div>
         </div>
